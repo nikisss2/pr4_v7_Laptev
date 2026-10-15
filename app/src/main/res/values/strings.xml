@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Дневник погоды (Лаптев)</string>
+    <string name="title_auth">Авторизация</string>
+    <string name="label_login">Имя пользователя:</string>
+    <string name="label_password">Пароль:</string>
+    <string name="btn_login">Войти</string>
+
+    <string name="title_input">Дневник погоды: Ввод</string>
+    <string name="label_date">Дата:</string>
+    <string name="label_city">Город:</string>
+    <string name="label_temp">Температура (°C):</string>
+    <string name="label_condition">Погода:</string>
+    <string name="btn_save_weather">Сохранить запись</string>
+    <string name="btn_view_history">Посмотреть все записи</string>
+
+    <string name="title_history">История погоды</string>
+    <string name="label_current_user">Пользователь: </string>
+    <string name="btn_add_new">Добавить новую запись</string>
+    <string name="btn_clear_history">Очистить историю</string>
+    <string name="btn_logout">Выйти из профиля</string>
+
+    <string name="toast_fill_name">Введите имя пользователя</string>
+    <string name="toast_fill_login_pass">Введите имя пользователя и пароль</string>
+    <string name="toast_fill_all_fields">Заполните все поля</string>
+    <string name="toast_saved_success">Запись сохранена в SharedPreferences</string>
+    <string name="toast_cleared">История очищена</string>
+    <string name="history_empty">Записей пока нет</string>
+
+    <string-array name="weather_conditions">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Дождь</item>
+        <item>Снег</item>
+        <item>Гроза</item>
+    </string-array>
+</resources>

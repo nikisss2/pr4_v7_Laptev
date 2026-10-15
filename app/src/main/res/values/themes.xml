@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Pr4WeatherLaptev" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/darkGray</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/gray</item>
+    </style>
+</resources>
